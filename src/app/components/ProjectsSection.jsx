@@ -27,10 +27,10 @@ const projectsData = [
  
   {
     id: 3,
-    title: "Project 3",
-    description: "Project 3 description",
-    image: "/images/projects/logo.png",
-    tag: ["All", "Data Science"],
+    title: "Forecasting Sticker Sales",
+    description: "This is the starter code for the Season 5, episode 1 playground Series kaggle competition where i finished 48/2722.",
+    image: "/images/projects/p1.png",
+    tag: ["All", "Machine Learning"],
     gitUrl: "/",
     previewUrl: "/",
   },
