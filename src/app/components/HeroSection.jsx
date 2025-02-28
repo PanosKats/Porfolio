@@ -54,9 +54,13 @@ const HeroSection = () => {
               href="/"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br bg-[#f88765] to-secondary-500 hover:bg-slate-800 text-white mt-3"
             >
-              <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
-                Download CV
-              </span>
+
+              <Link href="/images/Resume.pdf" download="My_Resume.pdf">  
+                 <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
+                 Download CV
+                 </span>
+              </Link>
+              
             </Link>
           </div>
         </motion.div>
