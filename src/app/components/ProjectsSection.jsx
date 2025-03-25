@@ -7,22 +7,23 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "Project 1",
-    description: "Project 1 description",
-    image: "/images/projects/logo.png",
-    tag: ["All", "Data Science"],
-    gitUrl: "/",
-    previewUrl: "/",
+    title: "Machine Learning App for Predicting Student Grades",
+    description: "This app builds a machine learning model designed to predict a student's final grade based on various input features.",
+    image: "/images/projects/ML_app.png",
+    tag: ["All", "Machine Learning"],
+    gitUrl: "https://github.com/PanosKats/Machine-Learning-App-for-Predicting-Student-Grades",
+    previewUrl: "https://gradesprediction.streamlit.app/",
   },
  
   {
     id: 2,
-    title: "Project 2",
-    description: "Project 2 description",
-    image: "/images/projects/logo.png",
+    title: "Optimizing Ensemble Learning",
+    description: "This is a part of my undergraduate thesis that aimed to explore and optimize ensemble learning techniques to determine the most effective ensemble algorithm for a given dataset.",
+    image: "/images/projects/Ensemble_Learning_Results.png",
     tag: ["All", "Machine Learning"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/PanosKats/Optimizing-Ensemble-Learning",
     previewUrl: "/",
+    
   },
  
   {
