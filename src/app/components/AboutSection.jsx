@@ -73,7 +73,7 @@ const AboutSection = () => {
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
             I am a Data scientist with a passion for solving complex problems. I have experience
-            working with al kinds of data big or small. I have used Python, Pandas, Scikit learn, Pyspark , SQL, Git and many other technologies.
+            working with all kinds of data big or small. I have used Python, Pandas, Scikit learn, Pyspark , SQL, Git and many other technologies.
             I am a quick learner and I am always
             looking to expand my knowledge and skill set. I am a team player and
             I thrive in collaborative environments. I am looking forward to work with teams , solve challenges and develop impactful applications.
