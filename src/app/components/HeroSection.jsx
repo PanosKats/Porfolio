@@ -26,7 +26,7 @@ const HeroSection = () => {
                 1000,
                 "Data scientist",
                 1000,
-                "ML Engineer ",
+                "Software Engineer ",
                 1000,
                 "CB88D1D",
                 1000,
@@ -40,8 +40,7 @@ const HeroSection = () => {
             />
           </h1>
            <p className="text-[#ADB7BE] text-base sm:text-lg   mb-6 lg:text-xl">
-              I enjoy utilizing data to unravel complex problems and 
-              develop effective solutions.
+              I enjoy developing cutting edge solutions and making a meaningful impact through technology.
            </p>
           <div>
             <Link

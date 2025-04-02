@@ -21,7 +21,7 @@ const achievementsList = [
     postfix: "+",
   },
   {
-    metric: "Years working with Data",
+    metric: "Years developing cutting edge solutions",
     value: "5 years",
     postfix: "+",
   },

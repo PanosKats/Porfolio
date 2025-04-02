@@ -21,8 +21,8 @@ const TAB_DATA = [
         
       <div id="img-wrapper">
       <div><img src="../images/python.png" alt="logo" width={100} height={100} /></div>
-      <div><img src="../images/sql.png" alt="logo" width={100} height={100} /></div>
-      <div><img src="../images/spark.png" alt="logo" width={100} height={100} /></div>
+      <div><img src="../images/Postgresql_elephant.png" alt="logo" width={80} height={70} /></div>
+      <div><img src="../images/Docker.png" alt="logo" width={100} height={100} /></div>
       <div><img src="../images/pandas.png" alt="logo" width={100} height={100} /></div>
       <div><img src="../images/scit.png" alt="logo" width={100} height={100} /></div>
       <div><img src="../images/git.png" alt="logo" width={75} height={75} /></div>
@@ -72,11 +72,9 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am a Data scientist with a passion for solving complex problems. I have experience
-            working with all kinds of data big or small. I have used Python, Pandas, Scikit learn, Pyspark , SQL, Git and many other technologies.
-            I am a quick learner and I am always
-            looking to expand my knowledge and skill set. I am a team player and
-            I thrive in collaborative environments. I am looking forward to work with teams , solve challenges and develop impactful applications.
+          I am a Software engineer and Data Scientist with a passion for solving complex problems and building impactful applications.
+          I thrive in collaborative environments, where teamwork, effective communication, and leadership play a crucial role in achieving success.
+          I look forward to contributing to innovative projects, developing cutting edge solutions and making a meaningful impact through technology.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
